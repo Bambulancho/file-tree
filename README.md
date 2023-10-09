@@ -4,7 +4,7 @@
 Build a String representation of directory hierarchy under a given path  
 
 ## Details
-Implement `tree` method in [FileTreeImpl](src/main/java/com/efimchick/ifmo/io/filetree/FileTreeImpl.java) class.
+Implement `tree` method in [FileTreeImpl](src/main/java/com/efimchick/ifmo/io/filetree/FileTreeImpl_v.1.java) class.
 
 Input parameter is a path.
 
